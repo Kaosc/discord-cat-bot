@@ -1,5 +1,11 @@
 export default [
 	{
+		source: "https://pbs.twimg.com/media/GO0ydllWQAApxw2?format=jpg&name=small",
+		url: "https://i.imgur.com/A8wKLYo.jpg",
+		category: "catfeels, catreact",
+		tags: "sad, stare, cry, hurt, tears",
+	},
+	{
 		source: "https://twitter.com/i/status/1791358741616771136",
 		url: "https://i.imgur.com/QixaDMf.png",
 		category: "catcasual, catmental",
