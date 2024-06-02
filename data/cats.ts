@@ -1,5 +1,11 @@
 export default [
 	{
+		source: "https://pbs.twimg.com/media/GPAC2liXsAA5h4L?format=jpg&name=900x900",
+		url: "https://i.imgur.com/GvpDR1h.jpg",
+		category: "catreact",
+		tags: "ok",
+	},
+	{
 		source: "https://pbs.twimg.com/media/GO0ydllWQAApxw2?format=jpg&name=small",
 		url: "https://i.imgur.com/A8wKLYo.jpg",
 		category: "catfeels, catreact",
