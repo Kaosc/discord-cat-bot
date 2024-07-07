@@ -1,5 +1,17 @@
 export default [
 	{
+		source: "",
+		url: "https://i.imgur.com/4pUezUl.jpg",
+		category: "catcasual, catreact",
+		tags: "prey, cult, sect, pray, religion",
+	},
+	{
+		source: "",
+		url: "https://i.imgur.com/36Xfl7A.png",
+		category: "catcasual",
+		tags: "assemble",
+	},
+	{
 		source: "https://pbs.twimg.com/media/GPAC2liXsAA5h4L?format=jpg&name=900x900",
 		url: "https://i.imgur.com/GvpDR1h.jpg",
 		category: "catreact",
