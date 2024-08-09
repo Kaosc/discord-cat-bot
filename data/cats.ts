@@ -1,5 +1,23 @@
 export default [
 	{
+		source: "https://pbs.twimg.com/media/GUaPWDbXUAAMQy3?format=jpg&name=900x900",
+		url: "https://i.imgur.com/faxbZe7.jpg",
+		category: "catfeels, catreact, catmental",
+		tags: "beer",
+	},
+	{
+		source: "https://pbs.twimg.com/media/GUbRkQZboAAPHk7?format=jpg&name=900x900",
+		url: "https://i.imgur.com/YTpUhaz.jpg",
+		category: "catcasual, catfeels, catmental",
+		tags: "youlooklonely, lonely",
+	},
+	{
+		source: "https://pbs.twimg.com/media/GUbRkQcbwAAAt06?format=jpg&name=900x900",
+		url: "https://i.imgur.com/rZyD8jP.jpg",
+		category: "catcasual, catfeels, catmental",
+		tags: "youlooklonely, lonely",
+	},
+	{
 		source: "",
 		url: "https://i.imgur.com/4pUezUl.jpg",
 		category: "catcasual, catreact",
